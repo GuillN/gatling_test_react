@@ -1,0 +1,9 @@
+table {
+    border: grey solid 1px;
+    border-radius: 15px;
+    padding: 2vw;
+}
+
+th, td {
+    padding-right: 3vw;
+}
